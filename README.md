@@ -2,4 +2,4 @@ App that displays current time with added functionality, toggle button to view c
 
 ![alt text](https://i.imgur.com/CqOIylw.png)
 
-to view app, please open: http://localhost:5000/ or https://react-clock-9231.netlify.com/
+to view app, please open:https://react-clock-9231.netlify.com/
